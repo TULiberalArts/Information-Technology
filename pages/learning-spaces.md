@@ -331,7 +331,6 @@ In addition to the labs listed above, a number of walk-up kiosks are available t
 - [Temple Classroom Technology Support](http://www.temple.edu/cs/cts/)
 - [Temple Campus Maps](http://www.temple.edu/maps/)
 - [Temple Technology Level Definitions](http://www.temple.edu/cs/cts/smart_classrooms.htm)
-- [Temple Class Scheduling](http://www.temple.edu/ssm/scheduling.htm)
 - [EDUCAUSE on Learning Spaces eBook](http://www.educause.edu/LearningSpaces/)
 - [UMich SoE Classrooms (Model Site)](http://www.soe.umich.edu/rooms/classrooms/)
 - [UMich SoE Meeting Rooms (Model Site)](http://www.soe.umich.edu/rooms/meetingrooms/)
