@@ -1,0 +1,112 @@
+- name: "George Arcarola"
+  title: "Senior Technical Support Specialist"
+  office: "Weiss Hall 651"
+  building: "Anderson Hall"
+  email: "george.arcarola@temple.edu"
+  phone: "215-204-7322"
+  expertise: |
+    - Desktop Support for Weiss Hall
+    - Technology Purchasing for Psychology
+    - Technology Reviews for Psychology
+  photo: https://liberalarts.temple.edu/sites/liberalarts/files/default_images/no_picture.png
+
+- name: "James Esposito"
+  title: "Technical Support Specialist"
+  office: "Anderson Hall 21"
+  building: "Anderson Hall"
+  email: "james.esposito@temple.edu"
+  phone: "267-414-9654"
+  expertise: "Desktop Support for Anderson, Gladfelter, and Ritter Halls"
+  photo: https://liberalarts.temple.edu/sites/liberalarts/files/default_images/no_picture.png
+
+- name: "Marc Getty"
+  title: Director, Information Technology <br/> Building Manager, Anderson & Gladfelter Halls
+  office: "Anderson Hall 21"
+  building: "Anderson Hall"
+  email: "marc.getty@temple.edu"
+  phone: "215-962-5603"
+  expertise: |
+    - Project Planning & Management
+    - Technology Purchasing
+    - Communications
+    - Periodic Department Technology Reviews
+    - Liaison to Academic Technology Committee
+  photo: https://liberalarts.temple.edu/sites/liberalarts/files/default_images/no_picture.png
+
+- name: "Rodney T. Holloway"
+  title: "Evening Manager"
+  office: "Anderson Hall 21"
+  building: "Anderson Hall"
+  email: "R.T.Holloway@temple.edu"
+  phone: "215-204-3213"
+  expertise: |
+    - Evening Manager Labs
+    - Evening Support for Classrooms
+    - Technology Recycling Coordinator
+  photo: https://liberalarts.temple.edu/sites/liberalarts/files/default_images/no_picture.png
+
+- name: "Cyril Ireland"
+  title: "Manager, Classroom Support"
+  office: "Anderson Hall 21"
+  building: "Anderson Hall"
+  email: "cyril.ireland@temple.edu"
+  phone: "215-435-1313"
+  expertise: |
+    - Classroom Support Manager
+    - Event Technical Support
+    - Instructional Technology
+  photo: https://liberalarts.temple.edu/sites/liberalarts/files/default_images/no_picture.png
+
+- name: "Michael Landi"
+  title: "Lead Software Developer"
+  office: "Anderson Hall 21"
+  building: "Anderson Hall"
+  email: "michael.landi@temple.edu"
+  phone: "267-279-3302"
+  expertise: |
+    - Database Administration
+    - System Integration
+    - System Administration
+  photo: https://liberalarts.temple.edu/sites/liberalarts/files/default_images/no_picture.png
+
+- name: "Lido Paglia"
+  title: "Associate Director, Infrastructure & Support"
+  office: "Anderson Hall 21"
+  building: "Anderson Hall"
+  email: "lido.paglia@temple.edu"
+  phone: "215-204-8265"
+  expertise: | 
+    - Technology Infrastructure
+    - System Administration
+    - Desktop Support Manager
+  photo: https://liberalarts.temple.edu/sites/liberalarts/files/default_images/no_picture.png
+
+- name: "Ben Peters"
+  title: "Senior Technical Support Specialist"
+  office: "Anderson Hall 21"
+  building: "Anderson Hall"
+  email: "ben.peters@temple.edu"
+  phone: "215-204-1944"
+  expertise: "Desktop Support for Anderson, Gladfelter, and Ritter Halls"
+  photo: https://liberalarts.temple.edu/sites/liberalarts/files/default_images/no_picture.png
+
+- name: "Crystal Schulz"
+  title: "Manager, Technical Support"
+  office: "Anderson Hall 21"
+  building: "Anderson Hall"
+  email: "crystal.schulz@temple.edu"
+  phone: "215-204-3213"
+  expertise: |
+    - Computer Lab Management
+    - Student Worker Management
+    - Instructional Technology
+  photo: https://liberalarts.temple.edu/sites/liberalarts/files/default_images/no_picture.png
+
+- name: "Jonathan Todd"
+  title: "Manager, Technical Support"
+  office: "Anderson Hall 21"
+  building: "Anderson Hall"
+  email: "jonathan.todd@temple.edu"
+  phone: "215-435-3087"
+  expertise: "Desktop Support for Anderson, Gladfelter, and Ritter Halls"
+  photo: https://liberalarts.temple.edu/sites/liberalarts/files/default_images/no_picture.png

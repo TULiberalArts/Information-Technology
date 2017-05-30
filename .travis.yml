@@ -1,0 +1,22 @@
+language: ruby
+rvm:
+- 2.2.5
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+sudo: false
+branches:
+  only:
+  - master
+install:
+- bundle install
+script:
+- bundle exec jekyll build
+- bundle exec htmlproofer ./_site --check-html --check-favicon --allow-hash-href --external_only
+  --only-4xx --http-status-ignore 429
+after_success: s3_website push
+notifications:
+  slack:
+    rooms:
+      secure: Eqm0DYkprCpgJ2n21SOOQyc4J0d2Q7gdJjdKOx67uLWU/p4yVt93xDUdm5qT3+y1MUPeA/d3lwhnu19x5gQx5JWP3eRhybfIyvrfylCnGJRF8NBU4FLp6ehIrSiG+4i93+BQTvsNv04Rhy/m0eimY/DNgnxcJY2BTZ1YBCqFm4cgCIIlvVelBUhYYleQCNk/RfQ/8yIa5caQflIGaACzJ0jdoOW1XqtqpG6XONPfzwcEWbRvJ1YYngGLnZsYIwUgC/RD/0m6TVuEafaKKVWZzFnsLXDJqpbF5BjyraMfmRxpHJIqvE+J2NUcnoPJpZWq6Vbrg9KJ7EmdHFHIs5DE6YiZzl+7WPUIa8kYXiQNUuNi2NHfkkEK6hLAdSAbOy4v9xKMaEllWcVv01SkvnZyOcBV1WRFyzfZaWNQ358v4enapIMQa433ZTK/rPYljntYFr22F4wrOcSHN84xVhmR2Wv/ai/hAe3IAqgzzPrfbW+N1wsWPJ0nTNHbYrAZycQBTd+jviIcU3cyxiXrkxPR4r0zuKxh44oP/pTioUO0eQ+jAU5aILWPnDM16MEEAKputpebo1KgPUdOzfrdWUPOna36UzHid7Pyfp0mtLaHm1vgIL8+f9CVpsR2Zzx86s/JMzLS4xWP+f2VexuNvsZJzw34LRs60pllwnkVmekiYAo=
+    on_success: always

@@ -1,0 +1,107 @@
+---
+# Program/Department Title
+title: Information Technology
+# Subdirectory (with / at only at beginning)
+baseurl: /information-technology
+
+# Program Information
+# Short tagline for tweets (<100 characters)
+tagline: This is our life's work
+# Longer descriptions for link previews (<250 characters)
+description: ''
+# List of related keywords for search engines
+keywords: highered, college, university, philadelphia, Temple, information technology, it, technology
+
+# Address
+address:
+  room: 21
+  building: Anderson Hall
+  street: 1114 Polett Walk
+  city: Philadelphia, PA 19122
+  email: cla.it@temple.edu
+
+# Social Media
+# Put in only the username unless otherwise noted
+# If social media does not apply to your department, keep it blank or use the default values.
+social:
+  twitter: templeCLAIT
+  instagram: templeclait
+  github: TULiberalArts
+
+# University & College Information
+university:
+  name: Temple University
+  url: https://temple.edu/
+college: 
+  name: College of Liberal Arts
+  url: https://liberalarts.temple.edu/
+
+# Google Tag Manager OR Google Analytics
+google_analytics: 
+google_tag_manager: GTM-58ZL5B
+google:
+  api_key: AIzaSyCFlwljsN_PneirlwmoE__Xl-7xdYW98A4
+
+# Global Site Config
+theme: tutheme
+markdown: kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+timezone: UTC
+collections:
+  pages:
+    title: Pages
+    output: true
+    layout: page
+permalink: /:title
+
+
+# Prose
+prose:
+  rooturl: pages
+  media: media
+  ignore:
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - index.html
+  - _config.yml
+  metadata:
+    pages:
+      - name: title
+        field:
+          element: text
+          label: Title
+      - name: permalink
+        field:
+          element: text
+          label: Permalink
+      - name: layout
+        field:
+          element: select
+          label: Page layout
+          options:
+            - name: page
+              value: page
+            - name: faculty
+              value: faculty
+            - name: home
+              value: home
+
+# Jekyll Ignore
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.md
+  - s3_website.yml
+  - .sass-cache
+  - .travis.yml
+  - .ruby-version
+  - .gitignore
+  - vendor
+  - _site
+  - node_modules
