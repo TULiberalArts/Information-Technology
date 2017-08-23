@@ -22,7 +22,7 @@ The College of Liberal Arts has 116 classroom, meeting room, and lab learning sp
 - <a href="#Links">Learning Space Links</a>
 
 <h2><a name="Meeting" id="Meeting"></a>Meeting Rooms</h2>
-Meeting rooms are defined as areas not used for scheduled classes. Unlike in classrooms, not all seats have a writing surface for students/attendees. [Make a reservation](http://www.cla.temple.edu/special-events-request/).
+Meeting rooms are defined as areas not used for scheduled classes. Unlike in classrooms, not all seats have a writing surface for students/attendees. [Make a reservation](https://form.jotform.us/72255813079157).
 
 {:.highlight}
 Name | Location | Technology | Capacity
