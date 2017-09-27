@@ -1,5 +1,5 @@
 ---
-title: Information Technology Staff
+title: Staff
 permalink: /staff/
 layout: staff
 published: true
