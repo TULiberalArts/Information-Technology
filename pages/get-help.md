@@ -3,33 +3,50 @@ title: Get Help
 permalink: /get-help/
 layout: page
 published: true
+sidebar: true
+sidebar-content: |
+  **The Help Desk**  
+   TECH Center, Room 106  
+   Request Help: [TUhelp](https://tuhelp.temple.edu)  
+   phone: [(215) 204-8000](tel:2152048000)  
+   email: [help@temple.edu](mailto:help@temple.edu)  
+
+   ___
+
+   **Classroom Technology Support**  
+   Anderson & Gladfelter Halls  
+   [(215) 204-8572](tel:2152048572)  
+
+   ___
+
+   **Classroom Technology Support**  
+   Weiss Hall, Ritter Hall, & Ritter Annex  
+   [(215) 204-0131](tel:2152040131)  
+
+   ___
+
+   **Liberal Arts Information Technology**  
+   21 Anderson Hall   
+   [(215) 204-3213](tel:2152043213)  
+meta-description: >-
+  Get help and technical support in classrooms, offices, or
+  research areas within the College of Liberal Arts.
 ---
 
-## Help in a Classroom
+# Help in a Classroom
 
-Please use the telephone located in the classroom to call for assistance or press the "Help Button" located on the touch-screen control system.
+For help in a classroom press the "Help Button" located on the podium touch-screen control system.
 
-Different groups on campus service different areas and you will find a placard next to the telephone detailing which group or depot serves the lab or classroom that you are in.
-
-CLA IT labs are supported by CLA IT out of Anderson Hall 21 and can be reached during operating hours at 215-204-3213.
-
-Classrooms in Anderson and Gladfelter Halls are supported by the Anderson Hall Classroom Technical Support (CTS) depot and can be reached at 215-204-8572.
-
-Classrooms in Weiss, Ritter Hall, and Ritter Annex are supported by the Ritter Hall Classroom Technical Support (CTS) depot and can be reached at 215-204-0131.
-
-It is our goal to provide classroom assistance in five minutes or less during business hours.
+Classrooms across campus are supported by Classroom Technical Support (CTS) who are based out of offices close to the locations they support. Computer labs located within the College Liberal Arts are directly supported by Liberal Arts Information Technology staff (CLA IT).
 
 
-## Help in an Office or Research Area
+# Help in an Office or Research Area
 
-For technology assistance in your office or research area, please contact the Help Desk by entering a support request using [TUhelp](https://tuhelp.temple.edu). TUhelp is an online service that allows you to submit, modify, and monitor the status and history of your help requests.
+For technology assistance in your office or research area, please submit an online support request using [TUhelp][tuhelp]. TUhelp allows you to create, update, and track the status of your help requests.
 
-You may also email help@temple.edu or call 215-204-8000 to reach the Help Desk and submit your request.
+In addition to the TUhelp website you may also contact the Temple University Help Desk by emailing [help@temple.edu][hd-email], via phone [215-204-8000][hd-phone], live chat, or walk-in. The Help Desk is located on the ground floor of the [TECH Center][techcenter] in room 106.
 
-The Help Desk
-Telephone: 215-204-8000
-E-Mail: help@temple.edu
-Location: Ground floor of the TECH Center
-
-
-It is CLA IT's goal to provide desk-side assistance in one to four business hours. However, at just before and at the start of the fall and spring semesters, this is not always possible due to the volume of requests.
+[tuhelp]: https://tuhelp.temple.edu
+[hd-phone]: tel:215-204-8000
+[hd-email]: mailto:help@temple.edu
+[techcenter]: https://computerservices.temple.edu/lab/tech-center
