@@ -9,7 +9,7 @@ layout: page-blank
 <div class="container">
   {% for person in site.data.staff %}
     <div class="person">
-      <div class="person-photo"><img class="circle" src="{{ person.photo }}" alt="Photo of {{ person.name }}"></div>
+      <div class="person-photo"><img src="{{ person.photo }}" alt="Photo of {{ person.name }}"></div>
       <div class="person-bio">
         <h3>{{ person.name }}</h3>
         <h3><small>{{ person.title }}</small></h3>
