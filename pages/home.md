@@ -13,7 +13,7 @@ feature-body: >
     computing workstations spanning 15 specialized computing labs and over 60 classrooms. Backed by a nearly
     100% virtualized infrastructure, Liberal Arts Information Technology provides specialty technology
     solutions that help further the mission of the College of Liberal Arts.
-feature-image: "{{ '/assets/img/hero_bg.png' | prepend: site.baseurl }}"
+feature-image: assets/img/hero_bg.png
 published: true
 ---
 
