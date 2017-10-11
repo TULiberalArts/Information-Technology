@@ -1,13 +1,11 @@
 ---
-title: Learning Spaces
+title: Learning Spaces & Classrooms
 permalink: /resources/learning-spaces/
 layout: page
 published: true
 ---
 
-The College of Liberal Arts has 116 classroom, meeting room, and lab learning spaces on Main Campus ranging from small 10-seat meeting and 14-seat seminar rooms to a 626-seat lecture hall. All classrooms contain either a blackboard or dry erase board, student seating with writing surface, and either a fixed smart classroom system or facilities to support the delivery of portable technology equipment. Meeting spaces have the same features but do not always include a student writing surface.
-
-**Table of Contents**
+The College of Liberal Arts has classrooms and meeting rooms, and lab learning spaces on Main Campus ranging from small 10-seat meeting and 14-seat seminar rooms to a 626-seat lecture hall. All classrooms contain either a blackboard or dry erase board, student seating with writing surface, and either a fixed smart classroom system or facilities to support the delivery of portable technology equipment. Meeting spaces have the same features but do not always include a student writing surface.
 
 - <a href="#Meeting">Meeting Rooms</a>
 - <a href="#AL">Anderson AL Lecture Halls</a>
@@ -17,12 +15,11 @@ The College of Liberal Arts has 116 classroom, meeting room, and lab learning sp
 - <a href="#GH">Gladfelter Tower Classrooms</a>
 - <a href="#WH">Weiss Hall Classrooms</a>
 - <a href="#HON">Tuttleman Hall / Honors Program</a>
-- <a href="#Other">Shared Areas (Ritter, Tuttleman, Wachman, Engineering)</a>
-- <a href="#Lab">Computer Labs & Classrooms</a>
-- <a href="#Links">Learning Space Links</a>
+- <a href="#Shared">Shared Areas (Ritter, Tuttleman, Wachman, Engineering)</a>
+- <a href="#Lab">Computer Labs, Classrooms, & Kiosks</a>
 
 <h2><a name="Meeting" id="Meeting"></a>Meeting Rooms</h2>
-Meeting rooms are defined as areas not used for scheduled classes. Unlike in classrooms, not all seats have a writing surface for students/attendees. [Make a reservation](https://form.jotform.us/72255813079157).
+Meeting rooms are defined as areas not used for scheduled classes. Unlike classrooms, not all seats have a writing surface for students/attendees. [Make a reservation](https://form.jotform.us/72255813079157).
 
 {:.highlight}
 Name | Location | Technology | Capacity
@@ -221,7 +218,7 @@ Weiss 965 | No | 20 | Lab Tables
 <a href="#top" class="right"><i class="material-icons">arrow_upward</i>top</a>
 
 <a name="HON" id="WH2"></a>
-## Tuttleman Hall / Honors Program 
+## Tuttleman Hall / Honors Program
 Tuttleman is located at 1801 N. 13th Street, on the northeast corner of 13th and Montgomery Avenue. CLA IT has a special relationship with the Honors Program and supports their learning spaces.
 
 {:.highlight}
@@ -235,7 +232,7 @@ Tuttleman 209 | Yes | 24 | Flexible Furniture
 
 <a href="#top" class="right"><i class="material-icons">arrow_upward</i>top</a>
 
-<a name="Other" id="Other"></a>
+<a name="Shared" id="Shared"></a>
 ## Shared Areas
 All shared spaces are on Temple's main campus. These 25 spaces have a total student seating capacity of 938 seats. These spaces are *not* CLA-controlled, although courses taught by CLA faculty are regularly located in these rooms.
 
@@ -275,62 +272,14 @@ Engineering 719 | Yes | 32
 
 <a name="Lab" id="Lab"></a>
 ## Computer Labs/Computer Classrooms
-Computer classrooms have a dedicated computer at each student seat. All computer labs/classrooms, except for the drop-in labs (Anderson 21, Tuttleman 201, Tuttleman 204 and Ritter Annex 844), include a dedicated teacher station and a smart classroom presentation system. There are a total of 427 student computers and 10 instructor/presenter stations in our 14 labs/classrooms.
+[Computer labs and computer classrooms][labs] have a dedicated computer at each student seat. All computer labs/classrooms, except for drop-in labs (Anderson 21, Tuttleman 201, Tuttleman 204 and Ritter Annex 844), include a dedicated teacher station and a smart classroom presentation system. Kiosks are available throughout Liberal Arts areas.
 
-{:.highlight}
-Location | Technology | Capacity | Style
--------- | ---------- | -------- | -----
-Anderson 19 | Yes | 45 | Computer Classroom
-Anderson 21 | Yes | 97 | Computer Classroom**
-Anderson 22 | Yes | 70 | Computer Classroom
-Anderson 103 | Yes | 24 | Computer Classroom
-Anderson 104 | Yes | 24 | Computer Classroom
-Gladfelter 230 | Yes | 14 | Computer Classroom
-Gladfelter 336 | Yes | 21 | Computer Classroom
-Gladfelter 543 | Yes | 16 | Computer Classroom
-Gladfelter 847 | Yes | 30 | Computer Classroom
-Weiss 640 | Yes | 30 | Computer Classroom
-Ritter Annex 844 | No | 7 | Computer Classroom*
-Tuttleman 201 | No | 16 | Computer Classroom*
-Tuttleman 201D | Yes | 23 | Computer Classroom
-Tuttleman 204 | Yes | 10 | Computer Classroom*
+[See details & available locations][labs].
 
-<small><i>
-*denotes a drop-in style lab.  
-**Anderson 21 is a dedicated drop-in lab.
-</i></small>
 
 ---
 
 <a href="#top" class="right"><i class="material-icons">arrow_upward</i>top</a>
+<br/><br/>
 
-<a name="kiosks" id="kiosks"></a>
-
-## Computer Kiosks
-
-In addition to the labs listed above, a number of walk-up kiosks are available throughout Liberal Arts spaces. Locations include:
-
-- Anderson 215
-- Hallway outside of Anderson 103
-- Hallway outside of Weiss 640
-- Second floor hallway of Tuttleman Hall
-- Gladfelter 310A
-- Lobby of the Liberal Arts Academic Advising within Paley Library
-
-<small><i>
-*Seating Capacity represents the number of student seats. All computer classrooms, with the exception of the drop-in labs (Anderson 21, Tuttleman 201, Tuttleman 204 and Ritter Annex 844), include a dedicated teacher station and a smart classroom presentation system.*
-</i></small>
-
----
-
-<a href="#top" class="right"><i class="material-icons">arrow_upward</i>top</a>
-
-<a name="Links" id="Links"></a>
-## Learning Space Links
-
-- [Temple Classroom Technology Support](http://www.temple.edu/cs/cts/)
-- [Temple Campus Maps](http://www.temple.edu/maps/)
-- [Temple Technology Level Definitions](http://www.temple.edu/cs/cts/smart_classrooms.htm)
-- [EDUCAUSE on Learning Spaces eBook](http://www.educause.edu/LearningSpaces/)
-- [UMich SoE Classrooms (Model Site)](http://www.soe.umich.edu/rooms/classrooms/)
-- [UMich SoE Meeting Rooms (Model Site)](http://www.soe.umich.edu/rooms/meetingrooms/)
+[labs]: {{ "/resources/computer-labs/" | prepend: site.baseurl }}
