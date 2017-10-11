@@ -1,9 +1,9 @@
 - name: "George Arcarola"
   title: "Senior Technical Support Specialist"
-  office: "Weiss Hall 651"
-  building: "Anderson Hall"
+  office: "Weiss Hall 633"
+  building: "Weiss Hall"
   email: "george.arcarola@temple.edu"
-  phone: "215-204-7322"
+  phone: "267-236-6894"
   expertise: |
     - Desktop Support for Weiss Hall
     - Technology Purchasing for Psychology
@@ -75,7 +75,7 @@
   building: "Anderson Hall"
   email: "lido.paglia@temple.edu"
   phone: "215-204-8265"
-  expertise: | 
+  expertise: |
     - Technology Infrastructure
     - System Administration
     - Desktop Support Manager
