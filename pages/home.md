@@ -19,6 +19,6 @@ published: true
 
 <div class="row row-wide">
 <div class="col m12 l4">{% include cards/card2-image.html title="Request Technical Assistance" content="Technical assistance in offices, labs, research areas, and more are all available by request." image="" button-link="get-help/" button-text="Learn More" %}</div>
-
+<div class="col m12 l4">{% include cards/card2-image.html title="Access the Media Library" content="The Liberal Arts Media Library catalog covers a wide range of academic interests with a focus on the social sciences and humanities." image="" button-link="resources/media-library/" button-text="Learn More" %}</div>
 <div class="col m12 l4">{% include cards/card2-image.html title="Review Technology Resources" content="Information Technology resources are available to support the work of students, faculty and staff." image="" button-link="resources/" button-text="Learn More" %}</div>
 </div>
