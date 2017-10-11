@@ -26,18 +26,17 @@ address:
 social:
   twitter: templeCLAIT
   instagram: templeclait
-  github: TULiberalArts
 
 # University & College Information
 university:
   name: Temple University
   url: https://temple.edu/
-college: 
+college:
   name: College of Liberal Arts
   url: https://liberalarts.temple.edu/
 
 # Google Tag Manager OR Google Analytics
-google_analytics: 
+google_analytics:
 google_tag_manager: GTM-58ZL5B
 google:
   api_key: AIzaSyCFlwljsN_PneirlwmoE__Xl-7xdYW98A4
