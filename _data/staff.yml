@@ -108,5 +108,8 @@
   building: "Anderson Hall"
   email: "jonathan.todd@temple.edu"
   phone: "215-435-3087"
-  expertise: "Desktop Support for Anderson, Gladfelter, and Ritter Halls"
+  expertise: |
+    - Apple Support Specialist
+    - Desktop Support for Academic Advising in Paley Library
+    - Desktop Support for Anderson, Gladfelter, and Ritter Halls
   photo: https://liberalarts.temple.edu/sites/liberalarts/files/default_images/no_picture.png
