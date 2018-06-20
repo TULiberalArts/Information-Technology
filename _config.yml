@@ -3,6 +3,10 @@
 title: Information Technology
 # Subdirectory (with / at only at beginning)
 baseurl: /information-technology
+# Production domain (without / at the end)
+production: https://www.cla.temple.edu
+# url spits sitemap
+url: https://www.cla.temple.edu/information-technology
 
 # Program Information
 # Short tagline for tweets (<100 characters)
