@@ -40,7 +40,7 @@ During summer sessions and breaks labs are open from **8am to 6:30pm Monday thro
 
 All labs and classrooms are closed on Weekends.
 
-For Tuttleman 201 and 201D lab hours contact the [Writing Center](http://www.temple.edu/writingctr/). For Tuttleman 204 lab hours contact the [Honors Program](http://www.temple.edu/honors/). For Gladfelter 513 lab access and hours contact the [Criminal Justice Department](https://www.cla.temple.edu/cj/contact/).
+For Tuttleman 201 and 201D lab hours contact the [Writing Center](http://www.temple.edu/writingctr/). For Tuttleman 204 lab hours contact the [Honors Program](http://www.temple.edu/honors/). For Gladfelter 513 lab access and hours contact the [Criminal Justice Department](https://www.cla.temple.edu/criminal-justice/).
 
 - [Computer Labs & Classrooms](#locations)
 - [Computer Kiosks](#kiosks)
