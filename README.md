@@ -4,6 +4,11 @@
 
 Information Technology is statically generated with [Jekyll](https://jekyllrb.com) and hosted by [The College of Liberal Arts](https://liberalarts.temple.edu) at [Temple University](https://temple.edu).
 
+| Links |  |
+| --- | --- |
+| Development | https://develop.cla.temple.edu/information-technology/ |
+| Production | https://www.cla.temple.edu/information-technology/ |
+
 ## Contributing
 
 If you discover typographic errors, bugs, or have problems navigating this site please consider [opening a new issue][issue]. A brief summary of the problem along with suggestions for improvement are welcome.
