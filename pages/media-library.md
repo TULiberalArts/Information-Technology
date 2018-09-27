@@ -3,7 +3,7 @@ title: Media Library
 permalink: /resources/media-library/
 layout: tla_page
 published: true
-sidebar: false
+sidebar: true
 sidebar-content: library.html
 
 ---
