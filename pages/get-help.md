@@ -5,7 +5,7 @@ published: true
 # meta-data variables
 title: Get Help
 # custom variables
-sidebar: false
+sidebar: true
 sidebar-content: help.html
 ---
 
