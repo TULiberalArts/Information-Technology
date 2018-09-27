@@ -1,12 +1,10 @@
 ---
-layout: tla_page
-permalink: /get-help/
-published: true
-# meta-data variables
 title: Get Help
-# custom variables
-sidebar: false
-sidebar-content: help.html
+permalink: /get-help/
+layout: tla_page
+published: true
+sidebar: true
+sidebar_content: labs.html
 ---
 
 # Help in a Classroom
