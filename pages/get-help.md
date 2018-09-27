@@ -3,7 +3,7 @@ title: Get Help
 permalink: /get-help/
 layout: tla_page
 published: true
-sidebar: true
+sidebar: false
 sidebar_content: labs.html
 ---
 # Help in a Classroom
