@@ -6,7 +6,7 @@ published: true
 title: Get Help
 # custom variables
 sidebar: true
-sidebar-content: get-help.html
+sidebar-content: help.html
 ---
 
 # Help in a Classroom
