@@ -6,13 +6,11 @@ published: true
 sidebar: true
 sidebar_content: labs.html
 ---
-
 # Help in a Classroom
 
 **For help in a classroom please press the "Help Button" located on the podium touch-screen control system.**
 
 Classrooms across campus are supported by Classroom Technical Support (CTS) who are based out of offices close to the locations they support. Computer labs located within the College Liberal Arts are directly supported by Liberal Arts Information Technology staff (CLA IT).
-
 
 # Help in an Office or Research Area
 
