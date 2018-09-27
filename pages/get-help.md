@@ -7,9 +7,6 @@ title: Get Help
 # custom variables
 sidebar: true
 sidebar-content: sidebars/get-help.html
-meta-description: >-
-  Get help and technical support in classrooms, offices, or
-  research areas within the College of Liberal Arts.
 ---
 
 # Help in a Classroom

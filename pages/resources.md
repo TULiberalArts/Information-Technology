@@ -4,7 +4,7 @@ permalink: /resources/
 published: true
 # meta-data variables
 title: Resources
-# custom variablesw
+# custom variables
 sidebar: false
 ---
 
