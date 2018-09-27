@@ -4,7 +4,7 @@ permalink: /resources/computer-labs/
 layout: tla_page
 published: true
 sidebar: true
-sidebar_content: sidebars/computer-labs.html
+sidebar_content: computer-labs.html
 ---
 
 
