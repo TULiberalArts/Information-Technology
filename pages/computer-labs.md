@@ -3,7 +3,7 @@ title: Computer Labs & Classrooms
 permalink: /resources/computer-labs/
 layout: tla_page
 published: true
-sidebar: true
+sidebar: false
 sidebar_content: labs.html
 ---
 
