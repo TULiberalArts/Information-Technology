@@ -1,8 +1,11 @@
 ---
-title: Resources
+layout: tla_page
 permalink: /resources/
-layout: page
 published: true
+# meta-data variables
+title: Resources
+# custom variablesw
+sidebar: false
 ---
 
 ## Table of Contents

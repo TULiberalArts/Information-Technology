@@ -1,8 +1,9 @@
 ---
 title: Learning Spaces & Classrooms
 permalink: /resources/learning-spaces/
-layout: page
+layout: tla_homepage
 published: true
+sidebar: false
 ---
 
 The College of Liberal Arts has classrooms and meeting rooms, and lab learning spaces on Main Campus ranging from small 10-seat meeting and 14-seat seminar rooms to a 626-seat lecture hall. All classrooms contain either a blackboard or dry erase board, student seating with writing surface, and either a fixed smart classroom system or facilities to support the delivery of portable technology equipment. Meeting spaces have the same features but do not always include a student writing surface.

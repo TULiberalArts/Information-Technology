@@ -1,8 +1,9 @@
 ---
 title: New Faculty
 permalink: /new-faculty/
-layout: page
+layout: tla_page
 published: true
+sidebar: false
 ---
 
 Welcome, new CLA faculty members! The purpose of this page is to provide technology information for new CLA faculty members.

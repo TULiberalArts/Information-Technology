@@ -1,9 +1,11 @@
 ---
-title: Get Help
+layout: tla_page
 permalink: /get-help/
-layout: page
 published: true
-sidebar: true
+# meta-data variables
+title: Get Help
+# custom variables
+sidebar: false
 sidebar-content: |
   **Temple University Help Desk**  
    The TECH Center, Room 106  

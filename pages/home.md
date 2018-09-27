@@ -1,9 +1,10 @@
 ---
-title: Home
-meta-description: 100 or so words
-meta-keywords: 3 or 4 unique for this page
+# global predefined variables
+layout: tla_home
 permalink: /
-layout: home
+published: true
+# meta-data variables
+title: Home
 feature: true
 feature-title: Supporting Research and Instruction
 feature-body: >

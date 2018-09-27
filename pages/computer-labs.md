@@ -1,9 +1,9 @@
 ---
 title: Computer Labs & Classrooms
 permalink: /resources/computer-labs/
-layout: page
+layout: tla_page
 published: true
-sidebar: true
+sidebar: false
 sidebar-content: |
 
    **Hours of Operation During Semesters**  
