@@ -5,31 +5,8 @@ published: true
 # meta-data variables
 title: Get Help
 # custom variables
-sidebar: false
-sidebar-content: |
-  **Temple University Help Desk**  
-   The TECH Center, Room 106  
-   phone: [(215) 204-8000](tel:2152048000)  
-   email: [help@temple.edu](mailto:help@temple.edu)  
-   website: [tuhelp.temple.edu](https://tuhelp.temple.edu)  
-
-   ___
-
-   **Classroom Technology Support**  
-   Anderson & Gladfelter Halls  
-   Direct phone: [(215) 204-8572](tel:2152048572)  
-
-   ___
-
-   **Classroom Technology Support**  
-   Weiss Hall, Ritter Hall, & Ritter Annex  
-   Direct phone: [(215) 204-0131](tel:2152040131)  
-
-   ___
-
-   **Liberal Arts Information Technology**  
-   21 Anderson Hall   
-   Direct phone: [(215) 204-3213](tel:2152043213)  
+sidebar: true
+sidebar-content: sidebars/get-help.html
 meta-description: >-
   Get help and technical support in classrooms, offices, or
   research areas within the College of Liberal Arts.

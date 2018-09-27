@@ -3,14 +3,8 @@ title: Media Library
 permalink: /resources/media-library/
 layout: page
 published: true
-sidebar: false
-sidebar-content: |
-  **Liberal Arts Media Library**  
-   21 Anderson Hall  
-   1114 West Berks Street  
-   Philadelphia, PA 19122-6090  
-   phone: [(215) 204-3213](tel:2152043213)  
-
+sidebar: true
+sidebar-content: sidebars/media-library.html
 
 ---
 

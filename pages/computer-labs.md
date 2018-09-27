@@ -3,32 +3,8 @@ title: Computer Labs & Classrooms
 permalink: /resources/computer-labs/
 layout: tla_page
 published: true
-sidebar: false
-sidebar-content: |
-
-   **Hours of Operation During Semesters**  
-   *Spring, Fall, Study Days, and Finals*  
-
-   {:.highlight}
-   Monday | 7:30AM - 9:00PM
-   Tuesday | 7:30AM - 9:00PM
-   Wednesday | 7:30AM - 9:00PM
-   Thursday | 7:30AM - 9:00PM
-   Friday | 7:30AM - 7:00PM
-   Weekends | Closed  
-
-   ___
-
-   **Hours of Operation During Breaks**  
-   *Summer Session, Winter & Spring Breaks*  
-
-   {:.highlight}
-   Monday | 8:00am - 6:30pm
-   Tuesday | 8:00am - 6:30pm
-   Wednesday | 8:00am - 6:30pm
-   Thursday | 8:00am - 6:30pm
-   Friday | 8:00am - 5:30pm
-   Weekends | Closed
+sidebar: true
+sidebar-content: sidebars/computer-labs.html
 ---
 
 
