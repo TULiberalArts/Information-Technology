@@ -4,7 +4,7 @@ permalink: /resources/media-library/
 layout: tla_page
 published: true
 sidebar: true
-sidebar-content: library.html
+sidebar-content: labs.html
 
 ---
 
