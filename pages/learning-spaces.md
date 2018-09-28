@@ -1,7 +1,7 @@
 ---
 title: Learning Spaces & Classrooms
 permalink: /resources/learning-spaces/
-layout: tla_homepage
+layout: tla_page
 published: true
 ---
 
