@@ -1,10 +1,9 @@
 ---
 title: Media Library
 permalink: /resources/media-library/
-layout: tla_page
+layout: tla_test
 published: true
-sidebar: true
-sidebar-content: library.html
+sidebar: library.html
 
 ---
 

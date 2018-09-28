@@ -1,10 +1,9 @@
 ---
 title: Get Help
 permalink: /get-help/
-layout: tla_page
+layout: tla_test
 published: true
 sidebar: help.html
-sidebar_content: help.html
 ---
 # Help in a Classroom
 

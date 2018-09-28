@@ -5,7 +5,6 @@ published: true
 # meta-data variables
 title: Resources
 # custom variables
-sidebar: false
 ---
 
 ## Table of Contents
