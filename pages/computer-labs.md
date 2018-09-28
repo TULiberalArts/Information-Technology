@@ -5,7 +5,6 @@ layout: tla_page
 published: true
 sidebar: true
 sidebar_content: labs.html
-
 ---
 The College of Liberal Arts operates computer labs, classrooms, and kiosks in various locations across main campus. All College of Liberal Arts computer labs are supported by CLA IT located within Anderson 21. CLA IT can be reached directly during business hours at [215-204-3213](tel:2152043213).
 
