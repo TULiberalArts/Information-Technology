@@ -6,5 +6,5 @@ published: true
 # meta-data variables
 title: Staff
 # custom variables
-staff: components/faculty-list.html
+staff: components/staff-list.html
 ---
