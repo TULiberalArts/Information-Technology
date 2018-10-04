@@ -1,6 +1,6 @@
 ---
 title: Staff
 permalink: /staff/
-layout: staff
+layout: tla_faculty
 published: true
 ---
