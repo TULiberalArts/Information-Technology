@@ -5,6 +5,9 @@ permalink: /
 published: true
 # meta-data variables
 title: Home
+#custom variables
+promotion-table: true
+feature: true
 feature-title: Supporting Research and Instruction
 feature-body: >
     Liberal Arts Information Technology provides a comprehensive array of technology services and

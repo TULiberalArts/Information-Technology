@@ -43,8 +43,7 @@ social:
   # Google Tag Manager OR Google Analytics
   google_analytics:
   google_tag_manager: GTM-58ZL5B
-  google:
-    api_key: AIzaSyCFlwljsN_PneirlwmoE__Xl-7xdYW98A4
+  google: api_key: AIzaSyCFlwljsN_PneirlwmoE__Xl-7xdYW98A4
 
 # Global Site Config
 theme: tutheme
