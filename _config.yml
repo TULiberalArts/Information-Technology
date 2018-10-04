@@ -8,6 +8,10 @@ production: https://www.cla.temple.edu
 # url spits sitemap
 url: https://www.cla.temple.edu/information-technology
 
+# If you do not have access to 'tutheme', use 'minima' instead.
+theme: tutheme
+palette: light #future feature
+
 # Program Information
 # Short tagline for tweets (<100 characters)
 tagline: This is our life's work
@@ -45,7 +49,6 @@ social:
   google_tag_manager: GTM-58ZL5B
 
 # Global Site Config
-theme: tutheme
 markdown: kramdown
 highlighter: rouge
 sass:
@@ -56,7 +59,7 @@ collections:
   pages:
     title: Pages
     output: true
-    layout: page
+    layout: tla_page
 permalink: /:title
 
 
@@ -107,3 +110,4 @@ exclude:
   - vendor
   - _site
   - node_modules
+  - docker-compose.yml
