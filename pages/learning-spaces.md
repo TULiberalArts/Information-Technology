@@ -31,7 +31,7 @@ Dean's Conference Room | Anderson 1206 | Yes | 16
 Dean's Conference Room | Anderson 1221 | Yes | 75
 Dean's Conference Room | Anderson 1235 | Yes | 12
 Anthropology Fishbowl | Gladfelter 212 | No | 25
-Political Science Fishbowl | Gladfelter 1206 | Yes | 16
+Political Science Fishbowl | Gladfelter 413 | Yes | 16
 Weigley Library | Gladfelter 914 | Yes | 49
 History Conference Room | Gladfelter 914A | No | 20
 Center for the Humanities | Gladfelter 1007 | Yes | 60
