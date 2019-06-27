@@ -10,7 +10,7 @@ title: Resources
 ## Table of Contents
 
 - <a href="#learning-spaces">Learning Spaces</a>
-- <a href="#purchases">Technology Purchases</a>
+- <a href="#computer-labs">Computer Labs</a>
 - <a href="#esri">ESRI ArcGIS Online Training</a>
 - <a href="#purchases">Technology Purchases</a>
 
