@@ -13,6 +13,7 @@ title: Resources
 - <a href="#computer-labs">Computer Labs</a>
 - <a href="#esri">ESRI ArcGIS Online Training</a>
 - <a href="#purchases">Technology Purchases</a>
+- <a href="#recycling">Recycling</a>
 
 
 <a name="learning-spaces" id="learning-spaces"></a>
@@ -65,6 +66,22 @@ Please visit the [ESRI Training and Education site](http://campus.esri.com) and 
 ## Technology Purchases
 
 Liberal Arts Information Technology offers comprehensive support for technology purchases, from pre-award/pre-purchase through order placement, fulfillment, deployment, and end-of-life disposal. Liberal Arts faculty and staff who wish to purchase technology for their department, lab, or project should submit a [TUhelp request](http://tuhelp.temple.edu) to discuss options and submit purchase requests.
+
+---
+
+<a href="#top" class="right"><i class="material-icons">arrow_upward</i>top</a>
+
+<a name="recycling" id="recycling"></a>
+
+## Recycling
+
+The Computer Recycling Center (CRC) manages all surplus electronic equipment and related materials in a secure and environmentally conscious way. The CRC employs the 3 R's hierarchy when handling material: Reduce, Reuse, Recycle.
+
+These items include, but are not limited to, computers, laptops, monitors, printers, scanners, TV's, projectors, keyboards, mice, phones, DVD's, CD's, disks, cords, cables, toner, and ink cartridges.
+
+The CRC accepts functioning and non-functioning equipment as well as items that plug in or are related to equipment that plugs in.
+
+Liberal Arts faculty and staff who wish to surplus technology from their department, lab, or project should [submit a TUhelp request](http://tuhelp.temple.edu) which CLA IT will handle by arranging pickup, documentation, and processing. There is no need to contact the university-level CRC directly.
 
 ---
 
