@@ -55,7 +55,7 @@ the ESRI training site and begin the online course. Codes will only be e-mailed 
 e-mail addresses. Individual codes are required for each person taking each course. Codes can’t be shared under any circumstance. If you are an instructor seeking codes for your entire class, special
 arrangements can be made for you to self-generate codes for your students.
 
-Please visit the [ESRI Training and Education site](http://campus.esri.com) and choose Self Study / Virtual Campus for available course offerings.
+Please visit the [ESRI Training and Education site](https://www.esri.com/training/) and choose Self Study / Virtual Campus for available course offerings.
 
 ---
 
