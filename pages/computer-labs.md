@@ -10,7 +10,6 @@ For Tuttleman 201 and 201D lab hours contact the [Writing Center](http://www.tem
 
 - [Computer Labs & Classrooms](#locations)
 - [Computer Kiosks](#kiosks)
-- [Software](#software)
 - [Printing](#printing)
 
 ## Computer Labs & Classrooms
@@ -56,14 +55,6 @@ In addition to computer labs, a number of walk-up kiosks are available throughou
 <small>
 *Seating Capacity represents the number of student seats. All computer classrooms, with the exception of the drop-in labs (Anderson 21, Tuttleman 201, Tuttleman 204 and Ritter Annex 844), include a dedicated teacher station and a smart classroom presentation system.*
 </small>
-
----
-
-<a href="#top" class="right"><i class="material-icons">arrow_upward</i>top</a>
-
-## Software
-
-For the Fall 2013 semester, the following software titles have been installed on the standard lab and classroom image. This image is then set up on the computers in all PC computer labs, computer classrooms, and kiosks as well as on the teacher's stations in the CLA-owned smart classrooms in Anderson, Gladfelter, and Weiss Halls.
 
 ---
 
