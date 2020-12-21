@@ -41,7 +41,7 @@ college:
 # If social media does not apply to your department, keep it blank or use the default values.
 social:
   #twitter
-  twitter: templeCLAIT
+  twitter: 
   #instagram
   instagram: templeclait
   # Google Tag Manager OR Google Analytics
