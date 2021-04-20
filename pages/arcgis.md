@@ -132,6 +132,6 @@ Upon first launch of a new install of ArcGIS Pro Desktop you will be prompted to
 [tuhelp]: https://tuhelp.temple.edu/dwp/rest/share/OJSXG33VOJRWKVDZOBST2U2CL5IVKRKTKREU6TSOIFEVERJGORSW4YLOOREWIPJQGAYDAMBQGAYDAMBQGAYDAMJGOJSXG33VOJRWKSLEHUYTEMBQGETGG33OORSXQ5CUPFYGKPKDIFKECTCPI5PUQT2NIU======
 [roles]: https://doc.arcgis.com/en/arcgis-online/reference/roles.htm
 [arcgis-pro]: https://pro.arcgis.com/en/pro-app/get-started/get-started.htm#:~:text=ArcGIS%20Pro%20is%20the%20latest,elements%20of%20the%20user%20interface.
-[bao]
+[bao]: https://bao.arcgis.com/esriBAO/login/
 [insights]: https://insights.arcgis.com/
 [myesri]: https://my.esri.com/
